@@ -3,6 +3,8 @@
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin: 20px 0px;
+    gap: 20px;
 }
 
 .nav h1 {
@@ -51,8 +53,5 @@ a{
 @media (max-width: 576px){
     .search{
         width: 100%;
-    }
-    ul{
-        margin-left: -40px;
     }
 }

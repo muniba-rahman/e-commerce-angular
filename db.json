@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "id": "3444",
+      "name": "Muniba Rahman",
+      "email": "muniba@gmail.com",
+      "password": "122222"
+    },
+    {
+      "id": "08b7",
+      "name": "new",
+      "email": "new@gmail.com",
+      "password": "121221"
+    },
+    {
+      "id": "5823",
+      "name": "testuser",
+      "email": "test@gmail.com",
+      "password": "tesetserss"
+    },
+    {
+      "id": "b56f",
+      "name": "dummyuser",
+      "email": "dum@email.com",
+      "password": "dummyuser"
+    }
+  ]
+}
